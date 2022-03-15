@@ -19,7 +19,6 @@
 * Unity & C#
 * Metaverse / Digital Twin
 * Sharing Experiences
-* Workout 🏋️
 
 ### 📚 Tech Stack
 
