@@ -14,6 +14,13 @@
 * Inha University ``2013.02 - 2020.08``
   * Bachelor of Business Administration
 
+### 📚 Interest
+
+* Unity & C#
+* Metaverse / Digital Twin
+* Sharing Experiences
+* Workout 🏋️
+
 ### 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/C%23-purple?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
