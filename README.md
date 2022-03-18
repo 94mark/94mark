@@ -6,6 +6,7 @@
 
 [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://basalt-account-ee9.notion.site/215d0cf62e9549f49fc400b91d600680)](https://basalt-account-ee9.notion.site/215d0cf62e9549f49fc400b91d600680)
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-181717?style=flat&logo=github&link=https://seongju0007.tistory.com/)](https://seongju0007.tistory.com/)
+[![Linkedin Badge](http://img.shields.io/badge/-LinkedIn-informational?style=flat&logoColor=white&logo=linkedin&link=https://www.linkedin.com/in/seongju-lim-b79b3b229)](https://www.linkedin.com/in/seongju-lim-b79b3b229)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:seongju0007@gmail.com)](mailto:seongju0007@gmail.com)
 </div>
 
